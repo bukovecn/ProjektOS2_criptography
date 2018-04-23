@@ -1,0 +1,30 @@
+c:\users\nikol\documents\visual studio 2015\Projects\os2_projekt\os2_projekt\bin\Debug\os2_projekt.exe.config
+C:\Users\Nikol\Documents\Visual Studio 2015\Projects\os2_projekt\os2_projekt\bin\Debug\os2_projekt.exe
+C:\Users\Nikol\Documents\Visual Studio 2015\Projects\os2_projekt\os2_projekt\bin\Debug\os2_projekt.pdb
+C:\Users\Nikol\Documents\Visual Studio 2015\Projects\os2_projekt\os2_projekt\obj\Debug\os2_projekt.csprojResolveAssemblyReference.cache
+C:\Users\Nikol\Documents\Visual Studio 2015\Projects\os2_projekt\os2_projekt\obj\Debug\os2_projekt.Form1.resources
+C:\Users\Nikol\Documents\Visual Studio 2015\Projects\os2_projekt\os2_projekt\obj\Debug\os2_projekt.Properties.Resources.resources
+C:\Users\Nikol\Documents\Visual Studio 2015\Projects\os2_projekt\os2_projekt\obj\Debug\os2_projekt.csproj.GenerateResource.Cache
+C:\Users\Nikol\Documents\Visual Studio 2015\Projects\os2_projekt\os2_projekt\obj\Debug\os2_projekt.exe
+C:\Users\Nikol\Documents\Visual Studio 2015\Projects\os2_projekt\os2_projekt\obj\Debug\os2_projekt.pdb
+C:\Users\Nikol\Desktop\os2_projekt\os2_projekt\bin\Debug\os2_projekt.exe.config
+C:\Users\Nikol\Desktop\os2_projekt\os2_projekt\obj\Debug\os2_projekt.exe
+C:\Users\Nikol\Desktop\os2_projekt\os2_projekt\obj\Debug\os2_projekt.pdb
+C:\Users\Nikol\Desktop\os2_projekt\os2_projekt\bin\Debug\os2_projekt.exe
+C:\Users\Nikol\Desktop\os2_projekt\os2_projekt\bin\Debug\os2_projekt.pdb
+C:\Users\Nikol\Desktop\os2_projekt\os2_projekt\obj\Debug\os2_projekt.csprojResolveAssemblyReference.cache
+C:\Users\Nikol\Desktop\os2_projekt\os2_projekt\obj\Debug\os2_projekt.Form1.resources
+C:\Users\Nikol\Desktop\os2_projekt\os2_projekt\obj\Debug\os2_projekt.Properties.Resources.resources
+C:\Users\Nikol\Desktop\os2_projekt\os2_projekt\obj\Debug\os2_projekt.csproj.GenerateResource.Cache
+C:\Users\Nikol\Desktop\1. sem - IPI\OS2\Projekt\os2_projekt\os2_projekt\bin\Debug\os2_projekt.exe.config
+C:\Users\Nikol\Desktop\1. sem - IPI\OS2\Projekt\os2_projekt\os2_projekt\obj\Debug\os2_projekt.exe
+C:\Users\Nikol\Desktop\1. sem - IPI\OS2\Projekt\os2_projekt\os2_projekt\obj\Debug\os2_projekt.pdb
+C:\Users\Nikol\Desktop\1. sem - IPI\OS2\Projekt\os2_projekt\os2_projekt\bin\Debug\os2_projekt.exe
+C:\Users\Nikol\Desktop\1. sem - IPI\OS2\Projekt\os2_projekt\os2_projekt\bin\Debug\os2_projekt.pdb
+C:\Users\Nikol\Desktop\1. sem - IPI\OS2\Projekt\os2_projekt\os2_projekt\obj\Debug\os2_projekt.csprojResolveAssemblyReference.cache
+C:\Users\Nikol\Desktop\1. sem - IPI\OS2\Projekt\os2_projekt\os2_projekt\obj\Debug\os2_projekt.Form1.resources
+C:\Users\Nikol\Desktop\1. sem - IPI\OS2\Projekt\os2_projekt\os2_projekt\obj\Debug\os2_projekt.Properties.Resources.resources
+C:\Users\Nikol\Desktop\1. sem - IPI\OS2\Projekt\os2_projekt\os2_projekt\obj\Debug\os2_projekt.csproj.GenerateResource.Cache
+C:\Users\Nikol\Documents\FAKS\1. sem - IPI\OS2\Projekt\Nikolina_Bukovec_C#\os2_projekt\bin\Debug\os2_projekt.exe.config
+C:\Users\Nikol\Documents\FAKS\1. sem - IPI\OS2\Projekt\Nikolina_Bukovec_C#\os2_projekt\obj\Debug\os2_projekt.exe
+C:\Users\Nikol\Documents\FAKS\1. sem - IPI\OS2\Projekt\Nikolina_Bukovec_C#\os2_projekt\obj\Debug\os2_projekt.pdb
